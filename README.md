@@ -1,5 +1,5 @@
 # module5_homework
-JavaScript HW
+JavaScript HW.
 Here are some assignments showing how to work with different types of data in JavaScript.
 
 Exercise 1
